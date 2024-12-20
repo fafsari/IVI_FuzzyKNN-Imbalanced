@@ -7,17 +7,11 @@ Published in *[Expert Systems with Applications](https://www.sciencedirect.com/j
 
 ---
 
-## Abstract  
-
-The classification of imbalanced datasets is a prevalent challenge in machine learning. Traditional methods often fail to correctly classify minority classes, resulting in suboptimal performance. This paper proposes novel adaptations of K-Nearest Neighbor (KNN) using interval-valued fuzzy sets and intuitionistic fuzzy logic, designed to handle imbalanced class distributions while maintaining robustness and interpretability. The proposed approaches are validated through extensive experiments on synthetic and real-world datasets.  
-
----
-
 ## Features  
 
 - **Interval-Valued Fuzzy KNN (IVF-KNN):** Enhances the traditional KNN algorithm with interval-valued fuzzy logic to improve classification performance in imbalanced datasets.  
 - **Intuitionistic Fuzzy KNN (IF-KNN):** Incorporates intuitionistic fuzzy sets to manage uncertainty and imprecision effectively.  
-- **Imbalance Handling:** Tailored to mitigate the effects of class imbalance, improving recall and F1 scores for minority classes.  
+- **Imbalance Handling:** Tailored to mitigate the effects of class imbalance, improving average AUC.  
 
 ---
 
