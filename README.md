@@ -3,7 +3,7 @@
 This repository contains the implementation of the methods presented in the paper:  
 **[Interval–valued fuzzy and intuitionistic fuzzy–KNN for imbalanced data classification](https://www.sciencedirect.com/science/article/pii/S0957417421009209)** by Saeed Zeraatkar and [Fatemeh Afsari](mailto:f.afsari@ufl.edu).  
 
-Published in *Expert Systems with Applications*, this paper introduces advanced fuzzy-based approaches for effectively classifying imbalanced datasets, leveraging interval-valued and intuitionistic fuzzy K-Nearest Neighbor (IVF-IFKNN) methods.  
+Published in *[Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*, this paper introduces advanced fuzzy-based approaches for effectively classifying imbalanced datasets, leveraging interval-valued and intuitionistic fuzzy K-Nearest Neighbor (IVF-IFKNN) methods.  
 
 ---
 
