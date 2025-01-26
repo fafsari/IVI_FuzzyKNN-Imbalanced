@@ -64,6 +64,9 @@ def main(file_path):
     # Standardize features
     scaler = StandardScaler()
     X = scaler.fit_transform(X)
+    
+    # Apply Interval-Valued Intuitionistic Fuzzy KNN (IVIF-KNN) based IPF for preprocessing
+    X, y = preprocess_data(X, y)
 
     k_fold_cross_validation(X, y)
 
